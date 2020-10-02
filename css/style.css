@@ -147,6 +147,16 @@ aside#sidebar{
     margin-top: 10px;
 
 }
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width: 90%;
+    padding: 5px;
+}
+
+#message{
+    padding-bottom: 5px;
+}
+
 /*Article Main */ 
 
 article#main-col{
@@ -158,7 +168,10 @@ article#main-col{
 ul#services li{
     list-style: none;
     padding: 20px;
-    
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background: #e6e6e6;
+
 }
 
 /*Footer */
