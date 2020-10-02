@@ -26,6 +26,14 @@ ul{
     color: #cccccc;
 }
 
+.dark{
+    padding: 15px;
+    background: #35424a;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+
 /*Header */
 header{
     background: #35424a;
@@ -116,7 +124,7 @@ header a:hover{
     width: 250px;
 }
 
-
+/* Boxes*/
 #boxes{
     margin-top: 20px;
 }
@@ -132,17 +140,21 @@ header a:hover{
     width: 90px;
 }
 
+/*Side Bar */
 aside#sidebar{
     float: right;
     width: 30%;
     margin-top: 10px;
 
 }
+/*Article Main */ 
 
 article#main-col{
     float: left;
     width: 65%;
 }
+
+/*Footer */
 
 footer{
     padding: 20px;
