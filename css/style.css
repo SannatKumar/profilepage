@@ -36,7 +36,7 @@ ul{
 
 /*Header */
 header{
-    background: #35424a;
+    background: #197cc3;
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
@@ -88,7 +88,7 @@ header a:hover{
 /* Show case */
 #showcase{
     min-height: 400px;
-    background: url('../img/treeblue.jpg') no-repeat;
+    background: url('../img/facepicture.jpg') no-repeat;
     text-align: center;
     color: #ffffff;
 }
