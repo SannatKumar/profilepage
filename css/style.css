@@ -88,7 +88,8 @@ header a:hover{
 /* Show case */
 #showcase{
     min-height: 400px;
-    background: url('../img/facepicture.jpg') no-repeat;
+    background: url('../img/profilepicturelast.jpg') no-repeat;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
 }
@@ -175,7 +176,72 @@ ul#services li{
 }
 
 /*Footer */
+.footer-nav ul{
+    background-color: burlywood;
+}
+.footer-nav li{
+    padding: 10px;
+    display: inline;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;  
 
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 50px;
+    height: 50px;    
+    padding-top: 12px;
+    border-radius: 15px;
+    align-content: center;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    align-content: center;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    align-content: center;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    align-content: center;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    align-content: center;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    align-content: center;
+  }
 footer{
     padding: 20px;
     margin-top: 20px;
