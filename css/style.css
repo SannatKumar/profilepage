@@ -58,7 +58,7 @@ header ul{
 header li{
     float: left;
     padding: 0 20px 0 20px;
-    display: inline;
+    display: block;
 
 }
 
@@ -88,9 +88,9 @@ header a:hover{
 /* Show case */
 #showcase{
     min-height: 400px;
-    background: url('../img/profilepicturelast.jpg') no-repeat;
+    background: url('../img/Turku_Image.jpg') no-repeat;
+    background-position: O;
     background-size: cover;
-    text-align: center;
     color: #ffffff;
 }
 
@@ -98,6 +98,13 @@ header a:hover{
     margin-top: 100px;
     font-size: 55px;
     margin-bottom: 10px;
+}
+
+#downloadcv a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+
 }
 
 #showcase p{
